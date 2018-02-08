@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname value="takeout_sender"></dbname>
+    <version value="1"></version>
+    <list>
+        <mapping class="com.example.wch.fivecrowdsourcing_runner.db.OrderImage" />
+        <mapping class="com.example.wch.fivecrowdsourcing_runner.Gson.Dish" />
+        <mapping class="com.example.wch.fivecrowdsourcing_runner.Gson.Sender" />
+        <mapping class="com.example.wch.fivecrowdsourcing_runner.Gson.User" />
+        <mapping class="com.example.wch.fivecrowdsourcing_runner.Gson.OrderInfo" />
+    </list>
+
+</litepal>
